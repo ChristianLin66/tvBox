@@ -35,6 +35,48 @@ http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel40/130
 http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel90/2300.m3u8
 #EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png",CCTV-4K超高清
 http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
+#EXTINF:-1 group-title="央视" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv1.png",CCTV1
+https://live.metshop.top/bestv.php?id=cctv1hd8m/8000000
+#EXTINF:-1 group-title="央视" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv2.png",CCTV2
+https://live.metshop.top/bestv.php?id=cctv2hd8m/8000000
+#EXTINF:-1 group-title="央视" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv3.png",CCTV3
+https://live.metshop.top/bestv.php?id=cctv38m/8000000
+#EXTINF:-1 group-title="央视" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv4.png",CCTV4
+https://live.metshop.top/bestv.php?id=cctv4hd8m/8000000
+#EXTINF:-1 group-title="央视" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv5.png",CCTV5
+https://live.metshop.top/bestv.php?id=cctv58m/8000000
+#EXTINF:-1 group-title="央视" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv5+.png",CCTV5+
+https://live.metshop.top/bestv.php?id=cctv5phd8m/8000000
+#EXTINF:-1 group-title="央视" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv6.png",CCTV6
+https://live.metshop.top/bestv.php?id=cctv6hd8m/8000000
+#EXTINF:-1 group-title="央视" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv7.png",CCTV7
+https://live.metshop.top/bestv.php?id=cctv7hd8m/8000000
+#EXTINF:-1 group-title="央视" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv8.png",CCTV8
+https://live.metshop.top/bestv.php?id=cctv8hd8m/8000000
+#EXTINF:-1 group-title="央视" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv9.png",CCTV9
+https://live.metshop.top/bestv.php?id=cctv9hd8m/8000000
+#EXTINF:-1 group-title="央视" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv10.png",CCTV10
+https://live.metshop.top/bestv.php?id=cctv10hd8m/8000000
+#EXTINF:-1 group-title="央视" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv11.png",CCTV11
+https://live.metshop.top/bestv.php?id=cctv11hd8m/8000000
+#EXTINF:-1 group-title="央视" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv12.png",CCTV12
+https://live.metshop.top/bestv.php?id=cctv12hd8m/8000000
+#EXTINF:-1 group-title="央视" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv13.png",CCTV13
+https://live.metshop.top/bestv.php?id=cctv13xwhd8m/8000000
+#EXTINF:-1 group-title="央视" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv14.png",CCTV14
+https://live.metshop.top/bestv.php?id=cctvsehd8m/8000000
+#EXTINF:-1 group-title="央视" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv15.png",CCTV15
+https://live.metshop.top/bestv.php?id=cctv15hd8m/8000000
+#EXTINF:-1 group-title="央视" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv16.png",CCTV16
+https://live.metshop.top/bestv.php?id=cctv16hd8m/8000000
+#EXTINF:-1 group-title="央视" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv16.png",CCTV16-4K
+https://live.metshop.top/bestv.php?id=cctv16hd4k/15000000
+#EXTINF:-1 group-title="央视" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv4K.png",CCTV-4K
+https://live.metshop.top/bestv.php?id=cctv4k/15000000
+#EXTINF:-1 group-title="央视" tvg-logo="http://n.ysyz.top:99/buyaolian/欢笑剧场.png",欢笑剧场4k
+https://live.metshop.top/bestv.php?id=hxjc4k/15000000
+#EXTINF:-1 group-title="央视" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv17.png",CCTV17
+https://live.metshop.top/bestv.php?id=cctv17hd8m/8000000
 #EXTINF:-1 group-title="央视" tvg-logo="https://live.fanmingming.com/tv/CETV1.png",CETV1中国央视电视台一套
 http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel33/2300.m3u8
 #EXTINF:-1 group-title="央视" tvg-logo="https://live.fanmingming.com/tv/CETV4.png",CETV4空中课堂频道
